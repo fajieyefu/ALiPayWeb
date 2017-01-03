@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SQLServer2008"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/WS_APP_PAY_SDK_BASE_2.0/客户端Demo/AndroidDemo_2.0(SDK版本15.2.2)/AndroidDemo_2.0/alipay_sdk/alipaySdk-20160825.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
